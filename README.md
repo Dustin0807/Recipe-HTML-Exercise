@@ -1,0 +1,1 @@
+<h1> <em>I'm a 17-year-old learning to code HTML with FreeCodeCamp. I completed an exercise on my own by following the guidelines they provided. This will be my first of hopefully many portfolio items! </em> </h1>
